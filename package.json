@@ -1,0 +1,11 @@
+{
+  "name": "Live_Coding",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Tarik Dimitri",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^13.7.0",
+    "cypress-plugin-api": "^2.11.1"
+  }
+}
